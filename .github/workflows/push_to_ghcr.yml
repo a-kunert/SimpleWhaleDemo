@@ -2,7 +2,7 @@ name: CI to Github Registry
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
 
